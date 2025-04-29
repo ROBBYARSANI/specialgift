@@ -23,7 +23,7 @@ body {
 .header-text {
   max-width: 50%;
   position: relative;/*Pastikan elemen berada di posisi absolut */
-  top: -270px; /* Atur posisi vertikal (10% dari atas layar) */
+  top: -280px; /* Atur posisi vertikal (10% dari atas layar) */
   left: 30px; /* Posisi horizontal di tengah */
   transform: translateX(-50%); /* Pastikan teks terpusat */
   color: white;
@@ -35,7 +35,7 @@ body {
   line-height: 1.4; /* Tambahkan jarak antar-baris jika ada teks multi-baris */
 }
 
-.header-text h1 {
+.header-text h2 {
   animation: fade 4s ease-in-out;
 }
 

@@ -3,7 +3,7 @@ onload = () => {
 };
 
 const texts = [
-    "Untuk orang yang aku cintai mutia",
+    "Untuk orang yang benar benarku sayangi \"mutia\"",
     "Tidak ada kata yang cukup untuk menggambarkan",
     "betapa bahagianya aku memiliki kamu di hidupku",
     "Di usiamu yang ke-20 ini aku berdoa supaya",
